@@ -4,6 +4,6 @@
       "string": {}
     },
     "age":{ "int":{ "min":1, "max":99}},
-    "height":{"int":{}}
+    "height":{"int":{"min":50, "max":250}}
   }
 }
