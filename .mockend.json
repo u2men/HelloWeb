@@ -1,7 +1,8 @@
 {
   "User": {
-    "title": {
+    "name": {
       "string": {}
-    }
+    },
+    "age":{ "int":{ "min":1, "max":99}}
   }
 }
